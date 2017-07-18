@@ -16,7 +16,8 @@ Training project for python. Uses external image recognition API to generate ima
 * should use external image description api.
 
 **Process**
-Use trello board for tracking progress: https://trello.com/imagefolderdescriptor
+1. Use "projects" tab for tracking progress.
+2. No stupid commit messages.
 
 **Structure**
 Aplication should consist of at least 4 files that contain **__classes__**.
